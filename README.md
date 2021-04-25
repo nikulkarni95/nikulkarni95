@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Nikita
 
-<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Nikita-Kulkarni.pdf"><img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=microsoftword&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Nikita-Kulkarni.pdf"><img src="https://img.shields.io/badge/-Resume-blue?style=flat"/></a>
 
 - 💡  I'm a MBA graduate (CIMR, Mumbai) in Finance with a total experience of **3 years in Technology and Strategic Consulting**
 
@@ -30,6 +30,19 @@
 ![Excel](https://img.shields.io/badge/-Excel-informational)\
 ![Photoshop](https://img.shields.io/badge/Photoshop-blue)&nbsp;
 
+### Projects
+
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Projects/Forex-Report.pdf"><img src="https://img.shields.io/badge/-Forex_Report-blue?style=flat"/></a>
+
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Projects/Horlicks_Campaigns.pdf"><img src="https://img.shields.io/badge/-Horlicks_Campaigns-blue?style=flat"/></a>
+
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Projects/Idli-Business-Plan.pdf"><img src="https://img.shields.io/badge/-Idli_Business_Plan-blue?style=flat"/></a>
+
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Projects/MedFin-Business-Plan.pdf"><img src="https://img.shields.io/badge/-MedFin_Business_Plan-blue?style=flat"/></a>
+
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Projects/Streamlining-Business-Process.pdf"><img src="https://img.shields.io/badge/-Streamlining_Business_Process-blue?style=flat"/></a>
+
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Projects/The_Bull_Bunch_Corporate_Bond_Market.pdf"><img src="https://img.shields.io/badge/-The_Bull_Bunch_Corporate_Bond_Market-blue?style=flat"/></a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
