@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there 👋, I am Nikita
 
-<!--
-**nikulkarni95/nikulkarni95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://raw.githubusercontent.com/nikulkarni95/nikulkarni95/master/Nikita-Kulkarni.pdf"><img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=microsoftword&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+- 💡  I'm a MBA graduate (CIMR, Mumbai) in Finance with a total experience of **3 years in Technology and Strategic Consulting**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I've Completed my studies from Pune University and Graduated as a **Bachelor of Engineering**.
+
+- 🔭 I’m currently working on **Project Management Office and Strategic Consulting**
+
+- 🌱 I’m currently learning **Consulting and Business Process Management**
+
+- 👯 I’m looking to collaborate on **Consulting in FinTech and Technology**
+
+- 💬 Ask me about **Strategic Consulting and Business Administration**
+
+
+### 🛠 &nbsp;Tech Stack
+![DevOps](https://img.shields.io/badge/-DevOps-Blue)&nbsp;
+![Agile](https://img.shields.io/badge/-Agile-cyan)&nbsp;
+![Strategic-Consulting](https://img.shields.io/badge/Strategic--Consulting-yellow)\
+![Project-Management](https://img.shields.io/badge/Project--Management-orange)&nbsp;
+![Business-Analysis](https://img.shields.io/badge/Business--Analysis-black)&nbsp;
+![Business-Transformation](https://img.shields.io/badge/Business--Transformation-red)\
+![Business-Process-Management](https://img.shields.io/badge/Business--Process--Management-blue)&nbsp;
+![Corporate-Valuation](https://img.shields.io/badge/Corporate--Valuation-informational)&nbsp;
+![Corporate-Finance](https://img.shields.io/badge/Corporate--Finance-cyan)&nbsp;\
+![Jira](https://img.shields.io/badge/-Jira-blue)&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-cyan)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-informational)\
+![Photoshop](https://img.shields.io/badge/Photoshop-blue)&nbsp;
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://devopsdummies.wordpress.com"><img src="https://img.shields.io/badge/-DevOpsDummies-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikitakulkarni95/"><img src="https://img.shields.io/badge/-Nikita%20Kulkarni-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nikitak1195@gmail.com"><img src="https://img.shields.io/badge/-nikitak1195@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+
+
